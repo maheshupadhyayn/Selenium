@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T09:29:39 IST" name="Default suite" finished-at="2024-04-01T09:29:59 IST" duration-ms="20532">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T09:29:39 IST" name="Default test" finished-at="2024-04-01T09:29:59 IST" duration-ms="20532">
+      <class name="reporterPkg.TestWithMultipleScreenShot">
+        <test-method is-config="true" signature="beforeSuiteStart()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:39 IST" name="beforeSuiteStart" finished-at="2024-04-01T09:29:39 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteStart -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:39 IST" name="beforeEachTest" finished-at="2024-04-01T09:29:39 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void reporterPkg.TestWithMultipleScreenShot.TC1() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="TC1()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:39 IST" name="TC1" finished-at="2024-04-01T09:29:43 IST" duration-ms="4684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:43 IST" name="afterEachTest" finished-at="2024-04-01T09:29:43 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="TC2()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:43 IST" name="TC2" finished-at="2024-04-01T09:29:49 IST" duration-ms="5175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:43 IST" name="beforeEachTest" finished-at="2024-04-01T09:29:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void reporterPkg.TestWithMultipleScreenShot.TC2() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:49 IST" name="afterEachTest" finished-at="2024-04-01T09:29:49 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="TC3()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:49 IST" name="TC3" finished-at="2024-04-01T09:29:54 IST" duration-ms="5579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:49 IST" name="beforeEachTest" finished-at="2024-04-01T09:29:49 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void reporterPkg.TestWithMultipleScreenShot.TC3() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:54 IST" name="afterEachTest" finished-at="2024-04-01T09:29:54 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method signature="TC4()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:54 IST" name="TC4" finished-at="2024-04-01T09:29:59 IST" duration-ms="5036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method is-config="true" signature="beforeEachTest(java.lang.reflect.Method)[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:54 IST" name="beforeEachTest" finished-at="2024-04-01T09:29:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void reporterPkg.TestWithMultipleScreenShot.TC4() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method is-config="true" signature="afterEachTest()[pri:0, instance:reporterPkg.TestWithMultipleScreenShot@33065d67]" started-at="2024-04-01T09:29:59 IST" name="afterEachTest" finished-at="2024-04-01T09:29:59 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+      </class> <!-- reporterPkg.TestWithMultipleScreenShot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
